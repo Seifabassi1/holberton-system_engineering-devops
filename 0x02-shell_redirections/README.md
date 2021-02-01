@@ -1,0 +1,2 @@
+about shell redirection
+
